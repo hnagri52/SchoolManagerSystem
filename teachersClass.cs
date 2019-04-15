@@ -111,9 +111,9 @@ namespace SchoolManager
 
 
 				
-			/*Teachers Sabihah = new Teachers("Sabihah Khan Nagri", 1, 80000.90);
-			Teachers Hussein = new Teachers ("Hussein Nagri", 2, 100000);
-			Teachers Bea = new Teachers ("Bea Persaud", 3, 50000);
+			/*Teachers Sa = new Teachers("Sab", 1, 80000.90);
+			Teachers Hu = new Teachers ("Husi", 2, 100000);
+			Teachers Be = new Teachers ("Ba", 3, 50000);
 			
 			Students sChild = new Students(1, 15000, "Ben Frank", 87.45);
 			Students hChild = new Students(2, 20000, "Job Bob", 95.3);
@@ -127,9 +127,9 @@ namespace SchoolManager
 			//Console.WriteLine(SSS.getStudentList());
 			
 		
-			teacherList.Add(Sabihah);
-			teacherList.Add(Hussein);
-			teacherList.Add(Bea);
+			teacherList.Add(Sab);
+			teacherList.Add(Hus);
+			teacherList.Add(Ba);
 																					//List <Students> studentsList = new ArrayList<>();
 			//sChild.moneyPaying(345);
 			//	SSS.addStudent(muneb);
